@@ -18,3 +18,7 @@ If you drag and drop an existing hat.png file onto duck_tool.exe, it will produc
 Once you have created the hat_meta.csv, you can modify it using a spreadsheet software like excel.
 ### Save Metapixels.
 Once you are satisfied with your values, you can put the values back into the hat. Simply drag and drop the hat_meta.csv onto the duck_tool.exe and a new hat.png will be produced in the Output folder for each hat.png in the Hats folder, with the metapixel values set to correspond to the used .csv
+
+## Open Source:
+I have included Duck_Tool_Source.py script in the source folder. Feel free to make changes as you like.
+I also included build_tool.bat, if you have PyInstaller, you can run this file and it will produce a .exe of Duck_Tool_Source.py.
